@@ -107,5 +107,5 @@
 • 我们在慢慢改善，能适应者或愿意克服者再申请。
 
 如何应聘
-请发简历至gavin.zhou@gmail.com
-或twitter: @gavinzhm
+- 请发简历至gavin.zhou@gmail.com
+- 或twitter: @gavinzhm
