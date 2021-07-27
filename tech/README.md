@@ -83,3 +83,8 @@ iOSアプリを開発するのに使っています
 
 * 費用: 1000円/月 年払い
 * URL: https://www.sketch.com/
+
+### jira & confluence
+
+* 費用: 無料プラン
+* URL: https://www.atlassian.com/
