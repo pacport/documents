@@ -3,7 +3,7 @@
 ## 公司背景
 
 本部是一家在日本的创业公司，因为公司业务扩张，需要更多远程工作的程序员。
-公司主页: [Pacport](https://pacport.com)
+公司主页: [Pacport](https://pacport.co.jp)
 
 ## 工作条件
 
