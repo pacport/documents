@@ -90,11 +90,10 @@
 - 有能力、有潜力的 Junior Level 可以考虑。
 - 薪水结算方式，月末结算时间，下个月月末支付
 例) 5月份工作40小时，6月末之前支付5月份的费用
-- 付款方式通过wise或是paypal帐号支付日元结算
+- 付款方式通过wise
 
 ```sh
 https://wise.com/
-https://www.paypal.cn/
 ```
 
 ## FAQ
