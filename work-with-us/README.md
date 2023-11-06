@@ -15,12 +15,12 @@
 
 1. Mac OS 电脑（因为公司开发环境基于 Mac OS）；
 2. 网络稳定且快速（非常重要，因为运行测试需要实时获取公司测试环境数据）；
-3. 平时文字工作交流使用 dingtalk；
-4. 线上会议视频沟通，使用 Google Meet、dingtalk会议
+3. 平时文字工作交流使用 slack
+4. 线上会议视频沟通，使用slack、Zoom
 
 ## 技术要求（必须熟练掌握）
 
-1. 开发语言(例：java、objective-c等，具体开发语言详见职位描述)
+1. 开发语言(例：Golang、java、objective-c等，具体开发语言详见职位描述)
 2. Git 操作，Github PR；
 3. 单元测试（例： jest, @testing-library/react 等）；
 4. 其它前端开发常用的工具和库；
