@@ -1,8 +1,8 @@
 # Pacportを支える技術
 
-* 日時: 2021-07-27
+* 日時: 2024-05-09
 * 作: Gavin
-* バージョン: 2021.7
+* バージョン: 2024.9
 
 ## 言語
 
@@ -42,32 +42,21 @@ iOSアプリを開発するのに使っています
 
 ### GitHub
 
-* 無料枠内に抑える
 * ローカルリポジトリとかは無くすべてのリポジトリを GitHub で管理しています。
 * GitHub の連携は通知とビルドです。GitHub Issues を利用しています。
 * 従業員全員が GitHub を利用しています。
 
 ### GitHub Actions
 
-* 無償枠内に抑えます。
+* cicd
 
-### CircleCI
-
-* 無償枠内に抑えます
-
-### Azure
+### aws
 
 ### Slack
 
 * 料金: 850 円 x 人数分 (年契約)
 * URL: https://slack.com/
 * 日本チームを使ってます、お客様とshare channelが必要のため
-
-### dingtalk
-
-* 料金: 無料
-* URL: https://www.dingtalk.com/ja-jp
-* メイン中国開発チームを使ってます。
 
 ### Docker Hub
 
@@ -79,18 +68,4 @@ iOSアプリを開発するのに使っています
 * 費用: 900 円/月 年払い
 * お客様からくる契約書やらのワード、税理士とのやり取り用のエクセル、事務系には必須ツール。
 
-### sketch
-
-* 費用: 1000円/月 年払い
-* URL: https://www.sketch.com/
-
-### jira & confluence
-
-* 費用: 無料プラン
-* URL: https://www.atlassian.com/
-
-
-### codeclimate
-
-* 費用: 無料プラン
-* URL: https://codeclimate.com/
+### notion
