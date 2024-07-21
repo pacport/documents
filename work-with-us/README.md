@@ -130,5 +130,5 @@ https://wise.com/
   
 ## 如何应聘
 
-- 请发简历至: hr@pacport.com
+- 请发简历至: tech-hr@pacport.com
 - 或twitter: @gavinzhm
